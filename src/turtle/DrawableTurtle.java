@@ -1,14 +1,14 @@
 /* Copyright (c) 2007-2016 MIT 6.005 course staff, all rights reserved.
  * Redistribution of original or derived work requires permission of course staff.
  */
-package ps0.src.turtle;
+package turtle;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import javax.swing.SwingUtilities;
 
-import ps0.src.turtle.Action.ActionType;
+import turtle.Action.ActionType;
 
 /**
  * Turtle for drawing in a window on the screen.

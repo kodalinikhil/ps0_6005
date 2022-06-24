@@ -1,7 +1,7 @@
 /* Copyright (c) 2007-2016 MIT 6.005 course staff, all rights reserved.
  * Redistribution of original or derived work requires permission of course staff.
  */
-package ps0.src.turtle;
+package turtle;
 
 import java.awt.BasicStroke;
 import java.awt.Color;
@@ -22,7 +22,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.SwingWorker;
 
-import ps0.src.turtle.Action.ActionType;
+import turtle.Action.ActionType;
 
 /**
  * Displays turtle graphics in a window on the screen.
